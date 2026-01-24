@@ -1,15 +1,15 @@
-Smart Campus Life Management App
+**Smart Campus Life Management App**
 
-📌About
+**📌About**
 
 ClassPulse is a campus life management application designed to help students stay organized, informed, and productive throughout their academic routine. The app centralizes class schedules, status updates, and productivity tools into a single, easy-to-use platform.
 
-🎯 Purpose
+**🎯Purpose**
 
 Managing classes, tracking schedules, and staying updated can be challenging for students.
 ClassPulse simplifies this by providing a structured and reliable system that keeps all academic information in one place.
 
-✨ Features
+**✨ Features**
 
 📅 Timetable Management – Weekly class schedule with clear organization
 
@@ -21,17 +21,15 @@ ClassPulse simplifies this by providing a structured and reliable system that ke
 
 👤 User Profile – Profile photo, personal information, and setting
 
-✨ Features
+**🛠 Tech Stack**
 
-📅 Timetable Management – Weekly class schedule with clear organization
+Frontend: React Native (Expo)
 
-⏱️ Upcoming Classes – View what class is next and its timing
+Backend: Firebase (Authentication & Firestore)
 
-🔄 Class Status Tracking – Mark classes as ongoing, late, or cancelled
+Media Storage: Cloudinary
 
-🧠 Focus & Productivity – Built-in focus timer and weekly insights
-
-👤 User Profile – Profile photo, personal information, and setting
+Navigation: Expo Router
 
 # Welcome to your Expo app 👋
 
