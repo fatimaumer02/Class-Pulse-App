@@ -1,3 +1,37 @@
+Smart Campus Life Management App
+📌About
+
+ClassPulse is a campus life management application designed to help students stay organized, informed, and productive throughout their academic routine. The app centralizes class schedules, status updates, and productivity tools into a single, easy-to-use platform.
+
+🎯 Purpose
+
+Managing classes, tracking schedules, and staying updated can be challenging for students.
+ClassPulse simplifies this by providing a structured and reliable system that keeps all academic information in one place.
+
+✨ Features
+
+📅 Timetable Management – Weekly class schedule with clear organization
+
+⏱️ Upcoming Classes – View what class is next and its timing
+
+🔄 Class Status Tracking – Mark classes as ongoing, late, or cancelled
+
+🧠 Focus & Productivity – Built-in focus timer and weekly insights
+
+👤 User Profile – Profile photo, personal information, and setting
+
+✨ Features
+
+📅 Timetable Management – Weekly class schedule with clear organization
+
+⏱️ Upcoming Classes – View what class is next and its timing
+
+🔄 Class Status Tracking – Mark classes as ongoing, late, or cancelled
+
+🧠 Focus & Productivity – Built-in focus timer and weekly insights
+
+👤 User Profile – Profile photo, personal information, and setting
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
