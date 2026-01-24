@@ -1,4 +1,5 @@
 Smart Campus Life Management App
+
 📌About
 
 ClassPulse is a campus life management application designed to help students stay organized, informed, and productive throughout their academic routine. The app centralizes class schedules, status updates, and productivity tools into a single, easy-to-use platform.
