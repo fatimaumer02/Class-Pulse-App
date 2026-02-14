@@ -1,83 +1,86 @@
-**Smart Campus Life Management App**
+# 📱 Class Pulse App
 
-**📌About**
+A mobile classroom management app built using **React Native** and **Expo**.  
+Class Pulse helps manage classroom updates, schedules, and student-related activities in a simple and modern mobile interface.
 
-ClassPulse is a campus life management application designed to help students stay organized, informed, and productive throughout their academic routine. The app centralizes class schedules, status updates, and productivity tools into a single, easy-to-use platform.
+---
 
-**🎯Purpose**
+## 📌 Overview
 
-Managing classes, tracking schedules, and staying updated can be challenging for students.
-ClassPulse simplifies this by providing a structured and reliable system that keeps all academic information in one place.
+Class Pulse is a mobile application designed to improve classroom communication and organization. It provides an intuitive interface for managing class-related information on Android and iOS devices.
 
-**✨ Features**
+---
 
-📅 Timetable Management – Weekly class schedule with clear organization
+## 🛠️ Tech Stack
 
-⏱️ Upcoming Classes – View what class is next and its timing
+- ⚛ React Native  
+- 🚀 Expo  
+- JavaScript  
 
-🔄 Class Status Tracking – Mark classes as ongoing, late, or cancelled
+---
 
-🧠 Focus & Productivity – Built-in focus timer and weekly insights
+## ✨ Features
 
-👤 User Profile – Profile photo, personal information, and setting
+- 📅 View class schedules  
+- 🔔 Notifications or updates  
+- 📊 Organized classroom interface  
+- 📱 Cross-platform support (Android & iOS)
 
-**🛠 Tech Stack**
+*(Update this list based on your actual features.)*
 
-Frontend: React Native (Expo)
+---
 
-Backend: Firebase (Authentication & Firestore)
+## 🚀 How to Run (Expo)
 
-Media Storage: Cloudinary
-
-Navigation: Expo Router
-
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+### 1️⃣ Clone the repository
 ```bash
-npm run reset-project
+git clone https://github.com/fatimaumer02/Class-Pulse-App.git
+```
+### 2️⃣ Navigate to the project folder
+```
+cd Class-Pulse-App
+```
+###3️⃣ Install dependencies
+```
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 4️⃣ Start Expo development server
+```
+npx expo start
+```
 
-## Learn more
+### 5️⃣ Run on device
+```
+Scan the QR code using the Expo Go app on your phone
 
-To learn more about developing your project with Expo, look at the following resources:
+Or press a to run on Android emulator
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Or press i to run on iOS simulator
+```
+## Project Structure
+```
+App.js               → Main application entry
+components/          → Reusable UI components
+screens/             → App screens
+assets/              → Images and static files
+package.json         → Dependencies
+app.json             → Expo configuration
+```
+## 🤝 Contributing
 
-## Join the community
+Contributions are welcome! You can:
 
-Join our community of developers creating universal apps.
+✨ Improve UI/UX
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🔔 Add push notifications
+
+🔐 Implement authentication
+
+📡 Connect to backend or database
+
+Fork the repository and create a pull request 🚀
+
+## 📄 License
+
+This project is open-source and available for learning and development purposes.
